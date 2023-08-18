@@ -18,7 +18,7 @@
 
 ## Data
 
-To create this game I ussed <a href="https://github.com/pygame/">pygame</a> library (https://github.com/pygame/)
+To create this game I ussed <a href="https://github.com/pygame/">pygame</a> library
 
 
 
