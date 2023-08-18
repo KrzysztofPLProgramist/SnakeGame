@@ -1,12 +1,26 @@
-# SnakeGame
+## Description
 
-* Instalation
+  Basic snake game 
   
-    Clone repository locally:
+## Instalation
+    
+  Clone repository locally:
 
-      git clone https://github.com/KrzysztofPLProgramist/SnakeGame.git
+    git clone https://github.com/KrzysztofPLProgramist/SnakeGame.git
   
-    Install packages:
+  Install packages:
   
-      pip install pygame==2.1.2
+    pip install pygame==2.1.2
+
+## Ussage
+
+  This game is for expansion 
+
+## Data
+
+To create this game I ussed <a href="https://github.com/pygame/">pygame</a> library (https://github.com/pygame/)
+
+
+
+
 
